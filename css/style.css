@@ -41,6 +41,7 @@ ul {
 
 .main-nav .logo {
   width: 110px;
+  margin-left: 10px;
 }
 
 .main-nav ul {
@@ -357,6 +358,10 @@ ul {
   .main-nav {
     width: 90%;
     margin: auto;
+  }
+
+  .main-nav .logo {
+    margin: 0;
   }
 
   .showcase-content-cta h2 {
