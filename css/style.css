@@ -600,15 +600,15 @@ ul {
   }
 
   .showcase-content-3 {
-    background: top center no-repeat url("../img/showcase-3-small.png");
+    background: top / contain no-repeat url("../img/showcase-3-small.png");
   }
 
   .showcase-content-2 {
-    background: top center no-repeat url("../img/showcase-2-small.png");
+    background: top / contain no-repeat url("../img/showcase-2-small.png");
   }
 
   .showcase-content-1 {
-    background: top center no-repeat url("../img/showcase-small.jpg");
+    background: top / contain no-repeat url("../img/showcase-small.jpg");
   }
 
   .cards-general {
